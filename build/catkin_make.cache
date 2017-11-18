@@ -1,0 +1,2 @@
+video_stream_opencv
+-DCATKIN_DEVEL_PREFIX=/home/ran/Documents/MCRobotics/IPCamera/devel -DCMAKE_INSTALL_PREFIX=/home/ran/Documents/MCRobotics/IPCamera/install -G Unix Makefiles
